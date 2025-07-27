@@ -44,7 +44,7 @@ To run the game locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Ayush9545/snake-open-world.git
+git clone https://github.com/Ayush9545/Snake_Game.git
 
 # Navigate to the project directory
 cd Snake
