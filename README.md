@@ -47,4 +47,6 @@ To run the game locally:
 git clone https://github.com/Ayush9545/snake-open-world.git
 
 # Navigate to the project directory
-cd snake-open-world
+cd Snake
+cd Board
+
